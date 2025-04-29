@@ -744,7 +744,7 @@ function gato(){
   world = 5;
   d6.style.background ="url('Basilisk.webp')";
   d6.style.backgroundsize="350px 350px";
-  alert(" I AM THE CREATOR OF THIS DIVINE WORLD . YOU THINK YOU HAVE EVEN A MICRONS CHANCE OF DEFEETING ME");
+  alert(" I AM THE CREATOR OF THIS DIVINE WORLD . YOU DON'T EVEN HAVE A MICRON OF A CHANCE!");
   ga()
 }
 function ga(){
